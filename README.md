@@ -6,7 +6,7 @@ Firebase login: <br>
 user: hola@google.com<br>
 pass: 123456<br>
 
-<h2>Nasa_2020 instructions</h2>
+<br>
 
 ## Project setup
 ```
