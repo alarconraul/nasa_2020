@@ -2,9 +2,9 @@ This is an app I created while learning how to code with VUE. I used Vuetify and
 
 URL: https://nasa-2020-api.web.app/login
 
-Firebase login: 
-user: hola@google.com
-pass: 123456
+Firebase login: <br>
+user: hola@google.com<br>
+pass: 123456<br>
 
 # nasa-demo
 
